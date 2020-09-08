@@ -5,4 +5,4 @@ Returns x offset, y offset, x scale, y scale.
 
 The raw script text is avaliable "UVTransformScript", the raw vertex shader is also available "UVTransformVertexShader"
 
-To see it in action and how it is used there is also a demo project
+To see it in action and how it is used there is also a demo project "UVTransform.yyz"

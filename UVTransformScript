@@ -4,7 +4,7 @@
 ///@param subimg1 {real} The sprite subimage to align the UVs to
 ///@param spr2 {Sprite} The sprite with UVs that will be aligned
 ///@param subimg1 {real} The sprite subimage with UVs that will be aligned
-function sprite_get_uv_transformed(_spr1, _subimg1, _spr2, _subimg2)
+function sprite_get_uvs_transformed(_spr1, _subimg1, _spr2, _subimg2)
 {
 	//Get the uvs of the sprites
 	var _uv1 = sprite_get_uvs(_spr1, _subimg1);
